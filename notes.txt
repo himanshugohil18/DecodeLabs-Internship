@@ -1,1 +1,1 @@
-Git practice
+This file contains internship notes and learning points.
